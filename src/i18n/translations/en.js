@@ -1,0 +1,38 @@
+export const en = {
+  translation: {
+    header: {
+      home: "Home",
+      worldChampions: "Training",
+      play: "Play",
+    },
+    championsList: {
+      header: "Training Level 1",
+      text: "Chess is an organized sport with a hierarchy of titles, a developed system of regular tournaments, national and international leagues and chess congresses.",
+      steinitz: "Wilhelm Steinitz",
+      lasker: "Emanuel Lasker",
+      capablanca: "Jose Raul Capablanca",
+      alekhine: "Alexander Alekhine",
+      euwe: "Max Euwe",
+      botvinnik: "Mikhail Botvinnik",
+      smyslov: "Vasily Smyslov",
+      tal: "Mikhail Tal",
+      petrosian: "Tigran Petrosian",
+      spassky: "Boris Spassky",
+      fischer: "Robert James 'Bobby' Fischer",
+      karpov: "Anatoly Karpov",
+      kasparov: "Garry Kasparov",
+      kramnik: "Vladimir Kramnik",
+      anand: "Viswanathan Anand",
+      carlsen: "Magnus Carlsen",
+    },
+    game: {
+      white: "White",
+      black: "Black",
+      restart: "Restart Game",
+      won: "You won by checkmate!",
+      lost: "You lost by checkmate.",
+      stalemate: "Stalemate. Game over.",
+      check: "Check!",
+    },
+  },
+};
